@@ -1,6 +1,7 @@
 # hi!
-<img align="right" src="https://komarev.com/ghpvc/?username=babybluesheep" />
-<img align="right" src="/sunset.webp" alt="Sunset shader I made for fun" width="400">
+<p>
+<img align="right" src="/sunset.webp" alt="Sunset shader I made for fun">
+</p>
 programmer (currently video gamer modder) & (not pro)-gamer
 
 c# enthusiast
