@@ -2,7 +2,7 @@
 <p>
 <img align="right" src="/sunset.webp" alt="Sunset shader I made for fun">
 </p>
-programmer (currently video gamer modder) & (not pro)-gamer
+programmer (currently video gamer modder, working on a game. where have i heard this before) & (pro)-gamer
 
 c# enthusiast
 
